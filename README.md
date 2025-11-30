@@ -2,7 +2,7 @@
 
 ![Asana Certified](https://img.shields.io/badge/Asana-Workflow%20Specialist-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
 
-**Topic Focus:** FinOps, CRM Management, IT Service Delivery  
+**Topic Focus:** FinOps, CRM Management, IT Service Desk  
 **Languages:** English / Deutsch
 
 ---
